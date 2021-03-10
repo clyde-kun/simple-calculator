@@ -1,5 +1,3 @@
-#additon calculator 
-
 operation = input('What math operation will you be using? ')
 
 if operation == 'Addition':
