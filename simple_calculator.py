@@ -110,7 +110,7 @@ while close == 'continue':
         numbers = input("How many numbers will you be using? ")
         num1 = float(input("Number "))
         num2 = float(input("Raised to "))
-        print(exp1 ** exp2)
+        print(num1 ** num2)
 
     close = input("press enter to end program or type continue to perform another calculation ")
 
