@@ -1,3 +1,7 @@
+input("Welcome to the best calculator of all time! [press enter to continue] ")
+
+
+
 close = 'continue'
 
 while close == 'continue':
