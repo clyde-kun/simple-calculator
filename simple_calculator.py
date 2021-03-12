@@ -7,7 +7,7 @@ close = 'continue'
 while close == 'continue':
     operation = input('What math operation will you be using? ')
     if operation == 'Addition':
-        numbers = input("How many numbers will you be using? ")
+        numbers = input("How many numbers will you be using? [5 numbers max] ")
         if numbers == "2":
             num1 = float(input('Number '))
             num2 = float(input('Plus '))
